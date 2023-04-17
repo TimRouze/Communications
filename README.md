@@ -8,4 +8,4 @@
 [````Poster_jobim_Tim.pdf````](https://github.com/TimRouze/Communications/blob/main/Poster_jobim_Tim.pdf)
 
 ## Proceedings for the oral presentation at [*Les journées de la statistique* 2022](https://jds22.sciencesconf.org) in Lyon  
-[````abstract_jds.pdf````](https://github.com/TimRouze/Communications/blob/main/jds2022.pdf)
+[````jds2022.pdf````](https://github.com/TimRouze/Communications/blob/main/jds2022.pdf)
